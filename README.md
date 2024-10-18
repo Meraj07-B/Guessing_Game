@@ -1,6 +1,3 @@
-# PRODIGY_SD_02
-
-
 # 🎯 Guess the Number Game
 
 Welcome to the "Guess the Number" game! This is a simple yet interactive Python-based GUI game where players attempt to guess a randomly generated number between 1 and 10. The game provides real-time feedback, tracking the number of attempts and giving hints to help the player reach the correct answer.
